@@ -4,7 +4,8 @@
 //mod car_factory;
 //mod vectors;
 //mod car_factory_2;
-mod conditionals;
+//mod conditionals;
+mod hash_maps;
 
 fn main() {
     //tuples::run();
@@ -13,5 +14,6 @@ fn main() {
     //car_factory::run();
     //vectors::run();
     //car_factory_2::run();
-    conditionals::run();
+    //conditionals::run();
+    hash_maps::run();
 }
